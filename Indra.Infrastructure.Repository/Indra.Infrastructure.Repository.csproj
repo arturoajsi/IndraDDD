@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Indra.Infrastructure.Data.Model\Indra.Infrastructure.Data.Model.csproj" />
+    <ProjectReference Include="..\Indra.Infrastructure.Persistence\Indra.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
